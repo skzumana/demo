@@ -1,4 +1,4 @@
 # demo
 this is my first repository.
-name:zumana
+name:Sk zumana
 DOB:2/08/2005
